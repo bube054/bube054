@@ -5,7 +5,7 @@ I'm a passionate Full-Stack Developer with a knack for Golang, Node.js, React an
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **[Beam and frame analyzer for engineers](https://beam-and-frame-calculator.vercel.app)**
-- 🌱 I’m learning **currently learning how to build robust command lines**.
+- 🌱 I’m learning **currently learning how to build robust command line applications**.
 - ⚡ Fun fact: **My favourite anime is [Re:zero](https://www.crunchyroll.com/series/GRGG9798R/rezero--starting-life-in-another-world-?srsltid=AfmBOooXdPXtqc3yokmev44ETFZoqoBbbx_ZV_nfPRinOyTsrF9jaIP8)**
 
 ---
