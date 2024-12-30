@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Attah Gbubemi David!
 
-I'm a passionate Full-Stack Developer with a knack for Golang, Node.js, React and Nextjs. I enjoy building open source projects, reading and writing docs. I am currently a Full-Stack web developer at [Amorsersolutions](https://amorserv.com/).
+## I'm a passionate Full-Stack Developer with a knack for Golang, Node.js, React and Nextjs. I enjoy building open source projects, reading and writing docs. I am currently a Full-Stack web developer at [Amorsersolutions](https://amorserv.com/).
 ---
 
 ## 🚀 About Me
